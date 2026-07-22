@@ -1,0 +1,16 @@
+{
+  "name": "telegram-news-bot",
+  "version": "1.0.0",
+  "description": "Telegram News Bot with maxrubika",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "bot": "python3 bot.py"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
